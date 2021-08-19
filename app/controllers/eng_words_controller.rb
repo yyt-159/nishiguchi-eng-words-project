@@ -1,0 +1,2 @@
+class EngWordsController < ApplicationController
+end
